@@ -1,2 +1,2 @@
 # server
-BingBongApp Server Process
+Server Process
